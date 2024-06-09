@@ -2,6 +2,7 @@ Project: Movie Recommendation System
 
 Objective:
     This project aims to develop a movie recommendation system using SQL queries.The system will generate personalized movie recommendations for users by analyzing movie ratings and user preferences, enhancing their movie-watching experience.
+    
 Dataset Overview and Preprocessing:
 A dataset containing movie ratings and user information is required to build the recommendation system.The dataset may include attributes such as movie IDs, user IDs, ratings, genres, and timestamps. 
 Before analyzing the data, preprocessing steps like data cleaning, handling missing values,and data normalization may be necessary to ensure accurate results.
