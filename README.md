@@ -1,4 +1,5 @@
-project:
+Project: Movie Recommendation System
+
 Objective:
     This project aims to develop a movie recommendation system using SQL queries.The system will generate personalized movie recommendations for users by analyzing movie ratings and user preferences, enhancing their movie-watching experience.
 Dataset Overview and Preprocessing:
